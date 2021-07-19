@@ -10,4 +10,4 @@ The `cc` folder contains code to run the models on WestGrid computing cluster.
 
 The `sector-effects` folder contains code for calculating sector effects.
 
-The code in this repo originates from the <https://github.com/psolymos/abmianalytics> project.
+*The code in this repo originates from the <https://github.com/psolymos/abmianalytics> project.*
