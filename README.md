@@ -8,6 +8,6 @@ The numbered R scripts are the distinct steps in the process (functions that all
 
 The `cc` folder contains code to run the models on WestGrid computing cluster.
 
-The `sector-effects` folder contains code for calculating sector effects.
+The `sector-effects` folder contains code for calculating sector effects with partial backfilling.
 
 *The code in this repo originates from the <https://github.com/psolymos/abmianalytics> project.*
