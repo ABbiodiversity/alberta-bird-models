@@ -17,7 +17,7 @@ The `sector-effects` folder contains code for calculating sector effects with pa
 ## The workflow
 
 1. Combine all the data inputs into a common format (`01-data-processing.R`):
-  - species data: BAM and BBS species code can be found in the [borealbirds](https://github.com/borealbirds) organization
+  - species data: BAM and BBS species code can be found in the [borealbirds](https://github.com/borealbirds) organization, ABMI data processing is documented in the [ABbiodiversity/abmidata](https://github.com/ABbiodiversity/abmidata) repo
   - Veg/soil/HF info: [ABbiodiversity/veg-hf-soil-summaries](https://github.com/ABbiodiversity/veg-hf-soil-summaries) repo
   - QPAD offsets: [borealbirds/qpad-offsets](https://github.com/borealbirds/qpad-offsets) repo
   - Lookup tables, etc.: [ABbiodiversity/abmianalytics](https://github.com/ABbiodiversity/abmianalytics), inside the `lookup` folder
